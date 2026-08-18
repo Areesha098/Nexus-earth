@@ -13,10 +13,6 @@ Global crises don't happen in isolation — a water crisis affects food, food in
 
 > **Simulate. Understand. Decide.**
 
-![Nexus Earth Dashboard](dashboard.png)
-
-![Nexus Earth AI Architecture](architecture.png)
-
 ---
 
 ## 👥 Team
@@ -28,16 +24,15 @@ Global crises don't happen in isolation — a water crisis affects food, food in
 - Maryam Saleem
 
 ---
-
 ## 🖥️ Screenshots
 
 ### 🌍 Dashboard
 
-![Nexus Earth Dashboard](dashboard.png)
+![Nexus Earth Dashboard](./Screenshot%202026-08-18%20153951.png)
 
 ### 🧠 AI Architecture
 
-![Nexus Earth AI Architecture](architecture.png)
+![Nexus Earth AI Architecture](./Screenshot%202026-08-18%20154014.png)
 
 ---
 ## 🔗 Links
