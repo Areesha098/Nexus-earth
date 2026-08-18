@@ -11,7 +11,7 @@ Nexus Earth is an AI-powered Digital Twin and Decision Intelligence platform tha
 
 Global crises don't happen in isolation — a water crisis affects food, food insecurity affects health, climate pressure affects energy, and these pressures cascade into the economy. Nexus Earth is built to visualize and understand these connections before they become reality.
 
-> **Simulate. Understand. Decide.**
+## **🌍 Simulate. Understand. Decide.**
 
 ---
 
@@ -138,4 +138,4 @@ Nexus Earth transforms complex global challenges into an interactive simulation 
 
 ---
 
-**🌍 Nexus Earth** — *Building Tomorrow Before It Happens.*
+# 🌍 **Nexus Earth — Building Tomorrow Before It Happens.**
