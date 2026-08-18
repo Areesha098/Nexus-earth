@@ -68,8 +68,6 @@ Global crises don't happen in isolation — a water crisis affects food, food in
 User → AI Copilot → AI Orchestrator → Multi-Agent AI → Simulation Engine → Decision Engine → Dashboard → AI Decision Report
 ```
 
-![Nexus Earth AI architecture](docs/screenshot-architecture.png)
-
 ---
 
 ## 🛠️ Technology Stack
