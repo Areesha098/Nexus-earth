@@ -1,0 +1,10 @@
+{
+  "name": "Earth 2100 - Nexus Earth",
+  "description": "An interactive planetary crisis simulation and AI operating system for humanity modeling global systems from 2026 to 2100.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
