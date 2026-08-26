@@ -18,6 +18,8 @@ Nexus Earth is an AI-powered Digital Twin and Decision Intelligence platform tha
 
 Global crises don't happen in isolation — a water crisis affects food, food insecurity affects health, climate pressure affects energy, and these pressures cascade into the economy. Nexus Earth is built to visualize and understand these connections before they become reality.
 
+Beyond simulation, Nexus Earth also provides a Civic Issue Reporting feature, allowing people to digitally report and tag real-world issues such as water meter, electricity, gas, and society-related problems. Instead of wasting time, money, and paperwork on traditional complaint processes, users can report an issue online and make it easier for the relevant authorities or communities to identify and respond to it.
+
 ## **🌍 Simulate. Understand. Decide.**
 
 ---
