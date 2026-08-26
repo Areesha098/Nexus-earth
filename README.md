@@ -12,7 +12,7 @@
 
 ## 📊 Presentation
 
-[📄 View Nexus Earth Presentation](./presentation/Nexus-Earth-Presentation.pdf)
+[📄 View Nexus Earth Presentation]Live Demo nexus-earth.netlify.appcommand.pdf
 
 Nexus Earth is an AI-powered Digital Twin and Decision Intelligence platform that helps users simulate interconnected global challenges and understand how decisions ripple across climate, water, food, energy, health, and the economy.
 
